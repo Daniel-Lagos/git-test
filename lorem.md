@@ -30,15 +30,6 @@ Fusce interdum egestas nunc, sed fermentum lectus lobortis id. Praesent blandit
 quam nunc, et convallis lacus convallis vel. Morbi ac venenatis sem. In sit amet
 facilisis erat.
 
-In suscipit lacinia elit, eu lobortis lacus laoreet quis. Ut dolor purus,
-sodales vel porta sit amet, tincidunt a tellus. Phasellus tempus venenatis
-lectus, eu sagittis orci dignissim eu. Aliquam in dui purus. Vivamus semper nisi
-ipsum, eget mattis velit consectetur non. Suspendisse ullamcorper tellus ac ante
-aliquet vehicula. Vestibulum sollicitudin, mi sit amet ultricies pellentesque,
-nisl augue pulvinar mi, id interdum lectus magna sed magna. Donec et interdum
-mauris. Nam posuere nunc in elementum congue. In vitae interdum diam.
-
-
 
 Vivamus semper pretium porttitor. Sed auctor semper dui, at auctor velit
 bibendum vitae. Sed id consequat enim. Pellentesque habitant morbi tristique
