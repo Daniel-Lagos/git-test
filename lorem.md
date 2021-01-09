@@ -20,16 +20,6 @@ dapibus, ipsum nunc interdum risus, eget posuere mi mauris volutpat felis. Ut
 luctus tincidunt fermentum. Curabitur magna mauris, facilisis non diam eu,
 pulvinar eleifend risus.
 
-Aliquam ac commodo eros, ut congue neque. Fusce a diam pharetra, ornare ante
-non, sollicitudin turpis. In hac habitasse platea dictumst. Donec commodo
-dignissim consequat. Vestibulum eget eros accumsan leo semper commodo. Mauris
-posuere accumsan diam, quis vulputate eros consectetur ac. Praesent rutrum felis
-rutrum nulla feugiat, id dapibus justo lobortis. In eu leo felis. Vivamus est
-purus, porta rutrum felis sed, aliquam luctus quam. Curabitur ut dictum enim.
-Fusce interdum egestas nunc, sed fermentum lectus lobortis id. Praesent blandit
-quam nunc, et convallis lacus convallis vel. Morbi ac venenatis sem. In sit amet
-facilisis erat.
-
 
 Vivamus semper pretium porttitor. Sed auctor semper dui, at auctor velit
 bibendum vitae. Sed id consequat enim. Pellentesque habitant morbi tristique
