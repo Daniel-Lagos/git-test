@@ -38,13 +38,7 @@ aliquet vehicula. Vestibulum sollicitudin, mi sit amet ultricies pellentesque,
 nisl augue pulvinar mi, id interdum lectus magna sed magna. Donec et interdum
 mauris. Nam posuere nunc in elementum congue. In vitae interdum diam.
 
-Vestibulum interdum leo ipsum, viverra maximus turpis aliquam in. Cras in orci
-tellus. Nulla sollicitudin arcu vel nisl tristique dictum. Aenean mattis nunc id
-tristique ornare. Mauris eu leo lacinia, sodales nisi at, aliquam lorem. Vivamus
-magna sem, porttitor in eros vitae, viverra rutrum augue. Nunc convallis mi id
-leo consectetur tincidunt. Integer rhoncus, turpis eget porta blandit, libero ex
-ultrices lectus, non pharetra quam lacus gravida ipsum. Praesent in tempor
-massa, vel fringilla est. 
+
 
 Vivamus semper pretium porttitor. Sed auctor semper dui, at auctor velit
 bibendum vitae. Sed id consequat enim. Pellentesque habitant morbi tristique
